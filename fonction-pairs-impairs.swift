@@ -13,3 +13,4 @@ afficherNombresPairsOuImpairs(x: 5, pair: true)
 
 // Exemple d'utilisation pour afficher les 5 premiers nombres impairs
 afficherNombresPairsOuImpairs(x: 5, pair: false)
+
