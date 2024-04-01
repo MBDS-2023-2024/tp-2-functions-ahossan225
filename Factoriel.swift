@@ -8,3 +8,4 @@ func factoriel(_ x: Int = 10) -> Int {
 // Exemple d'utilisation pour calculer le factoriel de 5
 let resultatFactoriel = factoriel(5)
 print(resultatFactoriel)
+
